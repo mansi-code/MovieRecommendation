@@ -1,5 +1,5 @@
 # Movie Recommendation System
-The project can be accessed by clicking [HERE](https://movie-recommendation-arjun161.herokuapp.com/)
+The project can be accessed by clicking [HERE](https://movierecommendation-ml.herokuapp.com/)
 ## About the project
 Movie recommendation is a popular technique where movies similar to a particular movie are shown so that any user looking for movies similar to his/her favourite movies can easily search for them. Movie recommendation is used by tech giants like Netflix, Amazon Prime, HBO, Hulu etc. This project is a first attempt to learn about the world of recommendation systems and learning about techniques to recommend things based on different criteria.\
 Movie Recommendation System is of **three** types :-
